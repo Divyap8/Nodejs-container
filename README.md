@@ -1,4 +1,4 @@
-
+This repository contains Dockerfile , package.json and index.js file needed to launch a nodejs container in AWS EC2 instnace .
 
 #To build Dockerfile :
 
